@@ -1,42 +1,42 @@
-# Machine Usage Reporting Script (Coursera Project)
+<h1>Machine Usage Reporting Script (Coursera Project)</h1>
 
 This repository contains a Python script designed to generate a daily report that tracks user connections to machines on a company network. This project was developed as part of a Coursera course and demonstrates practical skills in network event data analysis.
 
-## Problem
+<h2>Problem</h2>
 
 The IT department requires a daily report to monitor user activity on company machines. This report should identify which users are currently logged in to specific machines.
 
-## Solution
+<h2>Solution</h2>
 
 This script leverages a pre-existing system that collects network event data, including user login and logout events. The script parses this data to determine which users are actively connected to which machines at a specific point in time.
 
-## Features
+<h2>Features</h2>
 
-* Analyzes user login and logout events from network event data logs.
+*Analyzes user login and logout events from network event data logs.
 * Generates a daily report summarizing current user connections to machines.
 * Provides a clear and concise output format.
 
-## Benefits
+<h2>Benefits</h2>
 
 * Enhances IT department's visibility into user activity on company machines.
 * Aids in monitoring potential security concerns or unauthorized access attempts.
 * Provides valuable insights for resource allocation and machine usage optimization.
 
-## Target Audience
+<h2>Target Audience</h2>
 
 * IT professionals, network administrators, and system security specialists.
 * Individuals seeking to learn Python scripting and network event data analysis.
 
-## Usage
+<h2>Usage</h2>
 
-**Prerequisites:**
+<b>Prerequisites:</b>
 
 * Python
 * Required libraries (list the specific libraries your script uses)
 
-**Execution:**
+<b>Execution:</b>
 
-1. Run the script using the Python interpreter (https://hub.labs.coursera.org/connect/sharedtbwpukpx?forceRefresh=false&path=%2Fnotebooks%2FC1M6L1_Putting_It_All_Together.ipynb&isLabVersioning=file-prep).
+1. [Run the script using the Python interpreter] (pythonscript).
 
 ## Disclaimer
 
