@@ -12,7 +12,7 @@ This script leverages a pre-existing system that collects network event data, in
 
 <h2>Features</h2>
 
-*Analyzes user login and logout events from network event data logs.
+* Analyzes user login and logout events from network event data logs.
 * Generates a daily report summarizing current user connections to machines.
 * Provides a clear and concise output format.
 
@@ -36,7 +36,7 @@ This script leverages a pre-existing system that collects network event data, in
 
 <b>Execution:</b>
 
-1. [Run the script using the Python interpreter] (pythonscript).
+1. [Run the script using the Python interpreter](https://github.com/EhsanurRashid/TrackUseofMachine/blob/main/pythonscript).
 
 ## Disclaimer
 
